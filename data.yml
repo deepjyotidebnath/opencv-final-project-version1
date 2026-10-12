@@ -1,0 +1,8 @@
+# data.yml
+path: datasets/my_data   # dataset root folder
+train: images/train      # relative to path
+val: images/val          # relative to path
+
+names:
+  0: person
+  1: car
